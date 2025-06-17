@@ -9,7 +9,7 @@ By accessing and reviewing these samples, you acknowledge and agree to the follo
 1. **Risk of Execution:** Running these malware samples on any system could cause severe damage to your equipment, data, and network. The malware may delete files, disrupt system functionality, and compromise the security of your environment.
 2. **No Liability:** You assume all responsibility for any actions you take with the provided files. Neither I, nor any instructors, sponsors, or affiliates of BlueCon, will be held responsible for any damage, loss, or negative consequences resulting from the execution or misuse of these malware samples.
 3. **Use in Controlled Environments Only:** These samples are intended strictly for educational purposes within controlled environments, such as virtual machines or isolated networks.
-4. **Security Best Practices:** Always ensure that you have appropriate security measures in place, such as firewalls, antivirus software, and backups, before attempting any form of malware analysis.
+4. **Security Best Practices:** Always ensure that you have appropriate security measures in place such as snapshots and backups before attempting any form of malware analysis.
 
 By proceeding with any actions related to this repository, you acknowledge that you understand the inherent risks and agree to the terms set forth in this disclaimer.
 
