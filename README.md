@@ -13,6 +13,9 @@ By accessing and reviewing these samples, you acknowledge and agree to the follo
 
 By proceeding with any actions related to this repository, you acknowledge that you understand the inherent risks and agree to the terms set forth in this disclaimer.
 
+## ! Important !
+The password for the "Workshop Files.zip" archive is **Infected**
+
 # Description
 Phishing continues to be the leading cause of initial access in major breaches — accounting for over 75% of intrusion pathways globally. In this hands-on workshop, the CyberLynk team will demonstrate how attackers leverage phishing infrastructure and malware-laced payloads to bypass traditional controls.
 
